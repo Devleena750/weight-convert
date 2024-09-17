@@ -1,0 +1,65 @@
+body{
+  margin-top:70px;
+  background:#fcd581;
+  color:maroon;
+  text-align:center;
+  font-size:1.5rem;
+}
+#gramsOutput{
+	background-color:green;
+	color:black;
+	height:50px;
+	width:300px;
+	text-align:center;
+	margin-left:520px;
+	padding-top:25px;
+}
+#lbsOutput{
+	background-color:yellow;
+	color:black;
+	height:50px;
+	width:300px;
+	text-align:center;
+	margin-left:520px;
+	padding-top:25px;
+}
+#ozOutput{
+	background-color:red;
+	color:black;
+	height:50px;
+	width:300px;
+	text-align:center;
+	margin-left:520px;
+	padding-top:25px;
+}
+#kgInput{
+	height:40px;
+	width:300px;
+	font-size:1.5rem;
+}
+/* .row{ */
+	/* background-color:white; */
+	/* margin-left:250px; */
+	/* margin-right:250px; */
+	/* width:500px; */
+/* } */
+#gramsOutput:hover{
+	background-color:black;
+	color:white;
+}
+#lbsOutput:hover{
+	background-color:black;
+	color:white;
+}
+#ozOutput:hover{
+	background-color:black;
+	color:white;
+}
+.display-4:hover{
+	text-decoration:underline;
+	font-size:4.5rem;
+	text-shadow:20px;
+}
+	#kgInput:hover{
+		border:4px solid orange;
+}
